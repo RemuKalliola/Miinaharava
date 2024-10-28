@@ -1,0 +1,2 @@
+# Miinaharava
+Komentoriviltä toimiva miinaharava
