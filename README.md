@@ -1,2 +1,3 @@
 # Miinaharava
-Komentoriviltä toimiva miinaharava
+![Miinaharava peli komentorivillä](./Kuvat/screenshot1.png)
+
