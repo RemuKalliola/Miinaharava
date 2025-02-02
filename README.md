@@ -1,4 +1,9 @@
 # Miinaharava
 ![Miinaharava peli komentorivillä](./Kuvat/screenshot1.png)
 
-Liiku ympäriinsä nuolinäppäimillä, ja avaa ruutu painamalla 'c' tai aseta lippu painamalla 'f'.
+Komentorivillä toimiva klassinen Miinaharava-peli.
+
+### Käyttöohjeet
+- Liiku nuolinäppäimillä  
+- Avaa ruutu painamalla **C**  
+- Aseta lippu painamalla **F**
